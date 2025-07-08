@@ -1,4 +1,4 @@
-# Zelda Triangle Series Explorer 🔺📐
+# 🔺📐 Zelda Triangle Series Explorer
 
 An interactive Python application for visualizing and analyzing the famous “Zelda Triangle” recursive pattern — a beautiful blend of mathematics, recursion, geometry, and data visualization. Built using Tkinter, Matplotlib, and the math module, this tool allows students and enthusiasts to explore how triangles evolve through recursive steps.
 
